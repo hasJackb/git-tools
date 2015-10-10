@@ -14,5 +14,6 @@ the changes you've made.
 * Allow whitelisting and blacklisting people from the blames;
 * Support selecting how many people you want returned;
 * Roll-up emails into 'people' so you don't get the same person with
-  multiple emails.
+  multiple emails;
+* Figure out how to use this with hooks or webhooks.
 
